@@ -1,4 +1,4 @@
-Some Algorithms for Machine Learning
+# Some Algorithms for Machine Learning
 
 
 MLR includes some method to calculate the matrix;
